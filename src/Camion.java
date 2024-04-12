@@ -20,7 +20,7 @@ public class Camion implements IComun{
 
     /**
      *
-     * @param x dimension x del paquete
+     * @param x dimensión x del paquete
      * @param y dimension y del paquete
      * @param z dimension z del paquete
      * @param peso del paquete

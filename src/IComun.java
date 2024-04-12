@@ -11,7 +11,7 @@ public interface IComun {
 
     /**
      *
-     * @param cp Integer codigo postal
+     * @param cp Integer código postal
      * @return coste paquete
      */
     public Float costeTotal(Integer cp);

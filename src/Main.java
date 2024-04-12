@@ -2,7 +2,7 @@
 public class Main {
 
     /**
-     * metodo main donde introduciriamos los datos y visualizamos
+     * método main donde introduciriamos los datos y visualizamos
      * @param args
      */
     public static void main(String[] args) {

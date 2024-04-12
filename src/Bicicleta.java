@@ -23,7 +23,7 @@ public class Bicicleta implements IComun{
      * @param x dimension eje x
      * @param y dimension eje y
      * @param z dimension eje z
-     * @param peso del paquete
+     * @param peso del paquetee
      * @return tipo de embalaje
      */
 

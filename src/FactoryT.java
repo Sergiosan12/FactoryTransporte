@@ -7,7 +7,7 @@ public class FactoryT {
 
     /**
      *
-     * @param opc opcion para elegir el tipo de transporte
+     * @param opc opción para elegir el tipo de transporte
      * @return nueva instancia del transporte seleccionado
      */
 

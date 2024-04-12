@@ -2,7 +2,7 @@
 
 ## Icomun
 
-Creamos una interfaz con los metodos comunes para camion y bicicleta
+Creamos una interfaz con los métodos comunes para camion y bicicleta
 
 ## Bicicleta y Camion
 
